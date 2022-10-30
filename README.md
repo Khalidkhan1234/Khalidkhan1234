@@ -435,5 +435,6 @@ def pilih_super():
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
 
-if __name__ == '__masin__':
+if __name__ == '__khalid khan__':
 	login()
+
